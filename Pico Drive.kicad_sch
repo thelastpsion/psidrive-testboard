@@ -2011,7 +2011,7 @@
     (property "Value" "74AXP1T45GWH" (at 196.85 48.26 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" (at 186.69 49.53 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering" (at 186.69 49.53 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (at 186.69 49.53 0)
